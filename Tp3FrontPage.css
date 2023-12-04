@@ -5,15 +5,27 @@
     color: #C2C2C2;
     font-family: 'Judson', serif;
     font-size: 36px;
-    display : flex;
-    flex-direction: row;
-    justify-content: space-between;
-    text-align: center;
+    
+    
 }
 
 .body{
     background : linear-gradient(#002654, white);
     padding: 100px;   
+}
+
+.container{
+    display: flex;
+    flex-direction : row;
+
+}
+
+.element1{
+    text-align:left;
+}
+
+.element2{
+    text-align:center;
 }
 
 .bienvenue{
