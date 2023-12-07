@@ -1,0 +1,82 @@
+.imagechicken{
+    text-align: center;
+}
+
+.body{
+    background: linear-gradient(rgb(240, 235, 235), white);
+}
+
+.Gourmet{
+
+font-family: 'Judson', serif;
+text-align: center;
+}
+
+.Grill{
+    
+    font-family: 'Judson', serif;
+    text-align: center;
+}
+.imagesalle{
+
+text-align: center;
+}
+
+.TourArgent{
+    
+    font-family: 'Judson', serif;
+    text-align: center;
+}
+
+.imageTourArgent{
+text-align: center;
+}
+
+.recommandations{
+  
+    font-family: 'Judson', serif;
+    text-align: center;
+}
+
+.header{
+    background-color: #002654;
+    padding: 10px;
+    color: white;
+    width: 300px;
+    text-align: center;
+   
+}
+
+.description1{
+    font-family: 'Judson', serif;
+    text-align : center;
+   
+}
+
+.description2{
+    font-family: 'Judson', serif;
+    text-align : center;
+}
+
+.description3{
+    font-family: 'Judson', serif;
+    text-align : center; 
+}
+
+.top10{
+    font-family: 'Judson', serif;
+    text-align : center; 
+}
+
+.GuideTop10{
+    font-family: 'Judson', serif;
+    text-align : center; 
+}
+
+.youtubefood{
+    text-align: center;
+}
+
+.youtubeguide{
+    text-align: center;
+}
