@@ -1,6 +1,6 @@
 .header{
 
-    background-color: #002654;
+    background: linear-gradient(0deg, red, white, blue);
     padding: 10px;
     color: white;
     width: 300px;
@@ -46,6 +46,10 @@ font-family: 'Koh Santepheap', serif;
 justify-content: center;
 font-size : 36px;
 text-align: right;
+}
+
+.lecteur{
+    text-align: center;
 }
 
 .placetoureiffel{

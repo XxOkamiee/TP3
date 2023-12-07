@@ -1,6 +1,6 @@
 .body{
     background-image: url(Images/paris-3144950_1920.jpg);
-    background-size: 1290px;
+    background-size: auto;
     text-align: center;
 }
 
@@ -10,4 +10,35 @@
     color: white;
     width: 300px;
 
+}
+
+.fieldset{
+    border-color: grey;
+    background-color: rgb(163, 162, 162);
+    width: 0px;
+    
+}
+
+.basdepage{
+    background: linear-gradient(rgba(255, 255, 255, 0.194), rgb(47, 37, 232));
+    margin: 15px;
+    padding : 15px;
+}
+
+.texte1{
+    font-size: 30px;
+    color: white;
+}
+
+.texte2{
+    font-size: 30px;
+    color: white;
+}
+
+.arobas{
+    color: white;
+}
+
+.cellphone{
+    color: white;
 }
