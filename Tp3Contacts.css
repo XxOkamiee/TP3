@@ -5,9 +5,9 @@
 }
 
 .header{
-    background-color: #002654;
+    background: linear-gradient(to right, blue 33%, white 33%, white 66%, red 66%);
     padding: 10px;
-    color: white;
+    color: black;
     width: 300px;
 
 }
@@ -20,7 +20,10 @@
 }
 
 .basdepage{
+<<<<<<< Updated upstream
     background: linear-gradient(rgba(255, 255, 255, 0.194), rgb(37, 128, 232));
+=======
+>>>>>>> Stashed changes
     margin: 15px;
     padding : 15px;
 }
