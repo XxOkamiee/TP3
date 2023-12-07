@@ -13,6 +13,7 @@
 }
 
 .fieldset{
+    
     border-color: grey;
     background-color: rgb(163, 162, 162);
     width: 0px;
@@ -20,7 +21,6 @@
 }
 
 .basdepage{
-    background: linear-gradient(rgba(255, 255, 255, 0.194), rgb(37, 128, 232));
     margin: 15px;
     padding : 15px;
 }

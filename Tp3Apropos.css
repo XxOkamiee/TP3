@@ -17,3 +17,19 @@
 .fieldset{
     background-color: rgb(155, 155, 155);
 }
+
+.titre{
+    text-align: center;
+}
+
+.boite1{
+    text-align: center;
+    background: linear-gradient(rgba(255, 255, 255, 0.616), white);
+    margin: 15px;
+}
+
+.BreveduProjet{
+    background: linear-gradient(rgba(255, 255, 255, 0.642), white);
+    margin: 15px;
+    
+}
