@@ -22,14 +22,39 @@
     text-align: center;
 }
 
-.boite1{
-    text-align: center;
-    background: linear-gradient(rgba(255, 255, 255, 0.616), white);
-    margin: 15px;
+.BreveduProjet{
+    background: linear-gradient(rgba(255, 255, 255, 0.885), white);
+    width: 500px;
+    text-align: center; 
 }
 
-.BreveduProjet{
-    background: linear-gradient(rgba(255, 255, 255, 0.642), white);
-    margin: 15px;
-    
+.boiteexplicationprojet{
+    text-align: center;
+}
+
+
+.Explication1{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}
+
+.boiteaspect{
+ background-color: rgba(255, 0, 0, 0.866);
+ width: 150px;
+}
+
+.boitecontenu{
+    background-color: #484ffb ;
+    width: 180px;
+}
+
+.boiteOcé{
+border-style:solid; border-color: red;
+}
+
+
+.boiteAdri{
+    border-style: solid; border-color: #484ffb;
 }
